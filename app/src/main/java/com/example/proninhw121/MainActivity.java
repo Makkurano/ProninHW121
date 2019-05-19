@@ -42,4 +42,6 @@ public class MainActivity extends AppCompatActivity {
         donetext.setText(name + "\nВы успешно подписались на рассылку");
         }
     }
+
+
 }

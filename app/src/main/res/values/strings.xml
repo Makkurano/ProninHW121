@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ProninHW1.2.1</string>
+    <string name="TextName">Введите имя</string>
+    <string name="HintEmail">Введите e-mail</string>
+    <string name="TextEmail">E-mail:</string>
+    <string name="TextNameView">Имя:</string>
+    <string name="TextSubscribe">Оформление подписки</string>
 </resources>
