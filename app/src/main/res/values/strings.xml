@@ -5,4 +5,5 @@
     <string name="TextEmail">E-mail:</string>
     <string name="TextNameView">Имя:</string>
     <string name="TextSubscribe">Оформление подписки</string>
+    <string name="TextClean">Очистить</string>
 </resources>
